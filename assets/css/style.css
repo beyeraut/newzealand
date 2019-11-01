@@ -414,7 +414,7 @@ h5.subtitle {
     margin-right: 60px;
     font-weight: 700;
     text-transform: capitalize;
-    color: #coral;
+    color: coral;
 }
 
 .navbar-brand span {
@@ -423,7 +423,7 @@ h5.subtitle {
 
 
 .navbar-expand-lg.trans-navigation .navbar-nav .nav-link {
-    color: #fff;
+    color: coral;
 }
 
 
@@ -437,7 +437,7 @@ h5.subtitle {
 }
 
 .trans-navigation.header-white .navbar-nav .nav-link {
-    color: #fff;
+    color: coral;
 }
 
 .trans-navigation.header-white .navbar-nav a.active {
@@ -451,7 +451,7 @@ h5.subtitle {
 
 .trans-navigation.header-white .btn-white {
     background: #635CDB;
-    color: #fff;
+    color: coral;
 }
 
 
