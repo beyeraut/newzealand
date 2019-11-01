@@ -57,7 +57,9 @@
 
         // Instantiate and draw our chart, passing in some options.
         var chart = new google.visualization.PieChart(document.getElementById('chart_div'));
-        chart.draw(data, options);
+        chart.draw(data {
+                   is3D: true
+                   }, options);
       }
     </script>
 
@@ -168,7 +170,7 @@
                         <h4>Text text text</h4>
                         
                         <!--Div that will hold the pie chart-->
-    <div                    id="chart_div"></div>
+                        <div id="chart_div"></div>
                         
                     
                         
